@@ -19,7 +19,7 @@ Convert human-readable durations to seconds and vice versa in Python.
 Install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/your-username/humantime.git
+pip install git+https://github.com/vszlx4/humantime.git
 ```
 ---
 
@@ -78,3 +78,4 @@ You may use it for personal purposes or for educational content with proper cred
 Selling, modifying, or redistributing the software is strictly prohibited.
 
 See the [LICENSE](LICENSE) file for full details.
+
