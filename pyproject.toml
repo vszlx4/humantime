@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "humantime"
+version = "0.1.0"
+description = "Convert human-readable durations to seconds and vice versa"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    { name = "Ahmed Mughram" }
+]
+license = { file = "LICENSE" }
+keywords = ["time", "duration", "human-readable", "seconds", "conversion"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: AMPSL – Ahmed Mughram Proprietary Software License",
+    "Operating System :: OS Independent",
+    "Topic :: Utilities",
+    "Topic :: Software Development :: Libraries"
+]
+
+[project.urls]
+Homepage = "https://github.com/vszlx4/humantime"
+Repository = "https://github.com/vszlx4/humantime"
